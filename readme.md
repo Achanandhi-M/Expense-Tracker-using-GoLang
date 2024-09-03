@@ -13,8 +13,8 @@ A simple command-line application built with Go to track expenses. The applicati
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Achanandhi-M/Expense-Tracker-using-GoLang.git
+   cd Expense-Tracker-using-GoLang
    ```
 
 2. **Install dependencies:**
